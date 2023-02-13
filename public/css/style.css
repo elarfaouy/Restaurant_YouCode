@@ -1,0 +1,13 @@
+.plat-description, .plat-title {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.plat-title {
+    -webkit-line-clamp: 2;
+}
+
+.plat-description {
+    -webkit-line-clamp: 3;
+}
